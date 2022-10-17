@@ -31,7 +31,7 @@ h2 {
   margin-top: 33px;
 }
 
-input[type="text"] {
+input {
   margin-top: 30px;
   width: 117px;
   height: 83px;
@@ -42,6 +42,12 @@ input[type="text"] {
   color: white;
   text-align: center;
   font-weight: 800;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
 
 input:focus {
