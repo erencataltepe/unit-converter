@@ -60,3 +60,28 @@ button {
   padding: 9px 27.5px 9px 27.5px;
   border: none;
 }
+
+#converter-bottom {
+  height: 444px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f4f4;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.converter-cards {
+  width: 500px;
+  height: 108.57px;
+  background: #ffffff;
+  border-radius: 4.68077px 0px 0px 0px;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 20px;
+  color: #5a537b;
+  margin-top: 31px;
+}
