@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#converter-div {
+  width: 550px;
+  height: 729px;
+}
+
+#converter-top {
+  background-color: #6943ff;
+  display: flex;
+  align-items: center;
+  height: 285px;
+  flex-direction: column;
+}
+
+h1 {
+  color: white;
+  margin-top: 33px;
+}
