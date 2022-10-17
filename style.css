@@ -91,3 +91,11 @@ h3 {
   color: #5a537b;
   margin-top: 31px;
 }
+
+p {
+  margin-top: 9px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #353535;
+}
